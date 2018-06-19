@@ -7,4 +7,5 @@ import { Component,OnInit,ViewContainerRef } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+  subject= 'Doller Ipsum SIT Amit';
 }
