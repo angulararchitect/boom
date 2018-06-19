@@ -1,5 +1,5 @@
+import { Component,OnInit,ViewContainerRef } from '@angular/core';
 
-import { Component,TemplateRef, OnInit, ElementRef } from '@angular/core';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
