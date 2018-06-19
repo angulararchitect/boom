@@ -5,13 +5,15 @@ import { AppComponent } from './app.component';
 import { LoginComponent } from './login/login.component';
 import { ManagerComponent } from './manager/manager.component';
 import { BugTrackingComponent } from './bug-tracking/bug-tracking.component';
+import { LogoutComponent } from './logout/logout.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     LoginComponent,
     ManagerComponent,
-    BugTrackingComponent
+    BugTrackingComponent,
+    LogoutComponent
   ],
   imports: [
     BrowserModule
