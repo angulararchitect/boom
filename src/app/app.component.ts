@@ -9,5 +9,6 @@ export class AppComponent {
   title = 'app';
   subject= 'Doller Ipsum SIT Amit-Sapna';
   role='Admin';
+  Area='Barabanki'
  
 }
