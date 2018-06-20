@@ -10,7 +10,7 @@ export class AppComponent {
   subject= 'Doller Ipsum SIT Amit-Sapna';
   role='Admin';
   Id="Admin";
-  location="NAM";
+gender="Male";
 
 
 }
