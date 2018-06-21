@@ -11,4 +11,7 @@ export class AppComponent {
   role='Admin';
   location='Pune,Mumbai';
   ParentalStatus="Orphan";
+  Area='Barabanki'
+ 
+
 }
