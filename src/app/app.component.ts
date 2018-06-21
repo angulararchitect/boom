@@ -12,6 +12,5 @@ export class AppComponent {
   location='Pune,Mumbai';
   ParentalStatus="Orphan";
   Area='Barabanki'
- 
 
 }
