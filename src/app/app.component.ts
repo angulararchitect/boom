@@ -10,4 +10,5 @@ export class AppComponent {
   subject= 'Doller Ipsum SIT Amit-Sapna';
   role='Admin';
   location='Pune,Mumbai';
+  ParentalStatus="Orphan";
 }
